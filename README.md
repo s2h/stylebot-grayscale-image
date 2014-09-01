@@ -2,7 +2,7 @@ stylebot-grayscale-image
 ========================
 
 just use Stylebot addon for your browser and this code:
-'''css
+```css
 .article_content img {
     -webkit-filter: grayscale(0.8);
     filter: grayscale(0.8);
@@ -14,5 +14,5 @@ just use Stylebot addon for your browser and this code:
     filter: grayscale(0);
     opacity: 1;
 }
-'''
+```
 use your class instead of *.article_content*
